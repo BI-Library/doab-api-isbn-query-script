@@ -1,2 +1,2 @@
-# doab-api-isbn-query-script
-Script that takes a list of ISBNs (ISBN-10 or ISBN-13) and queries DOAB to see if they are open access
+# DOAB Open Access ISBN Lookup Script
+Script that takes a list of ISBNs (ISBN-10 or ISBN-13), converts them to ISBN-13 if needed, and queries DOAB to see if they are open access.
